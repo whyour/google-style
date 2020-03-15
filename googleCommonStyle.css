@@ -459,7 +459,8 @@ div .kno-ftr a {
 
 .mw #res h3,
 .mw #extrares h3 {
-  font-size: 18px
+  font-size: 18px;
+  background: transparent !important;
 }
 
 .srg>.g .r>a>div {
