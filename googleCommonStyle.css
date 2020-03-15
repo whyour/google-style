@@ -217,6 +217,11 @@ a em {
   font-weight: 700
 }
 
+.bkWMgd .g div.r, 
+.srg .g h3 {
+  background-color: transparent !important;
+}
+
 .srg .op-soft-title a:visited,
 .srg .op-soft-title a:visited em,
 .srg .g div.r>a:visited,
