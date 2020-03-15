@@ -128,6 +128,19 @@ a em {
   transition: all .25s cubic-bezier(.23, 1, .32, 1) 0s
 }
 
+#rso>.g, #extrares {
+  display: none !important;
+}
+
+.COEoid {
+  margin: -4px -19px -4px -5px !important;
+}
+
+.vk_c, .vk_cxp {
+  margin-left: 0 !important;
+  margin-right: -32px !important;
+}
+
 #rs,
 .srg .g div.rc .s {
   max-width: unset
