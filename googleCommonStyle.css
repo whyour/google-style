@@ -3,13 +3,13 @@ div.res_top_banner #foot,
 #head .headBlock,
 #rs_top_new,
 #content_right,
-.srg>table,
-.srg>div[id*="30"],
-.srg .c-recommend,
-.srg .leftBlock,
-.srg .hit_top_new,
-.srg #fld,
-.srg div.rrecom-btn-parent,
+#rso>table,
+#rso>div[id*="30"],
+#rso .c-recommend,
+#rso .leftBlock,
+#rso .hit_top_new,
+#rso #fld,
+#rso div.rrecom-btn-parent,
 #content_right,
 #center_col>#taw,
 #demo {
@@ -91,8 +91,8 @@ a em {
   width: 630px
 }
 
-#search .srg,
-.med>#ires .srg {
+#search #rso,
+.med>#ires #rso {
   animation-name: ani_bottomTotop;
   animation-duration: .8s;
   animation-timing-function: ease
@@ -104,7 +104,7 @@ a em {
   animation-timing-function: ease-out
 }
 
-.srg .jUmkFb:hover {
+#rso .jUmkFb:hover {
   margin: 0 auto;
   border-left: unset;
   padding: 0 20px 15px;
@@ -112,7 +112,7 @@ a em {
 }
 
 #rs,
-.srg>.g,
+#rso>.g,
 #rso>.g {
   width: 760px;
   padding: 0 20px 15px;
@@ -159,51 +159,51 @@ a em {
   border-radius: 5px 5px 0 0
 }
 
-.srg .f13 a,
-.srg .f13 em,
-.srg .c-span18 a,
-.srg .subLink_factory a,
-.srg .c-tabs-content a,
-.srg .op_offical_weibo_content a,
-.srg .op_offical_weibo_pz a,
-.srg .op_tieba2_tablinks_container a,
-.srg .op-tieba-general-right,
-.srg .op_dq01_title,
-.srg .op_dq01_table a,
-.srg .op_dq01_morelink a,
-.srg .op-tieba-general-mainpl a,
-.srg .op-se-listen-recommend,
-.srg .c-offset>div a {
+#rso .f13 a,
+#rso .f13 em,
+#rso .c-span18 a,
+#rso .subLink_factory a,
+#rso .c-tabs-content a,
+#rso .op_offical_weibo_content a,
+#rso .op_offical_weibo_pz a,
+#rso .op_tieba2_tablinks_container a,
+#rso .op-tieba-general-right,
+#rso .op_dq01_title,
+#rso .op_dq01_table a,
+#rso .op_dq01_morelink a,
+#rso .op-tieba-general-mainpl a,
+#rso .op-se-listen-recommend,
+#rso .c-offset>div a {
   text-decoration: none;
   color: #2866bd
 }
 
-.srg .f13 a:hover,
-.srg .f13 em:hover,
-.srg .subLink_factory a:hover,
-.srg .c-tabs-content a:hover,
-.srg .op_tieba2_tablinks_container a:hover,
-.srg .op-tieba-general-right:hover,
-.srg .op_dq01_title:hover,
-.srg .op_dq01_table a:hover,
-.srg .op_dq01_morelink a:hover,
-.srg .op-tieba-general-mainpl a:hover,
-.srg .op-se-listen-recommend:hover,
-.srg .c-offset>div a:hover {
+#rso .f13 a:hover,
+#rso .f13 em:hover,
+#rso .subLink_factory a:hover,
+#rso .c-tabs-content a:hover,
+#rso .op_tieba2_tablinks_container a:hover,
+#rso .op-tieba-general-right:hover,
+#rso .op_dq01_title:hover,
+#rso .op_dq01_table a:hover,
+#rso .op_dq01_morelink a:hover,
+#rso .op-tieba-general-mainpl a:hover,
+#rso .op-se-listen-recommend:hover,
+#rso .c-offset>div a:hover {
   text-decoration: underline !important
 }
 
-.srg .f13 a {
+#rso .f13 a {
   color: green
 }
 
-.srg .c-span18,
-.srg .c-span24 {
+#rso .c-span18,
+#rso .c-span24 {
   width: 100%;
   min-width: unset
 }
 
-.srg .c-border {
+#rso .c-border {
   width: auto;
   border: none;
   border-bottom-color: transparent;
@@ -214,8 +214,8 @@ a em {
   -o-box-shadow: 0 0 0 transparent
 }
 
-.srg .se_com_irregular_gallery ul li,
-.srg .op_jingyan_list,
+#rso .se_com_irregular_gallery ul li,
+#rso .op_jingyan_list,
 #rso .g .op-img-address-link-type {
   display: inline-block;
   margin-left: 10px
@@ -227,7 +227,9 @@ a em {
 #rso .g a h3,
 #rso .g div.r>a em {
   color: #2866bd;
-  font-weight: 700
+  display: inline-block;
+  width: 100%;
+  font-weight: 700;
 }
 
 .bkWMgd .g div.r, 
@@ -235,25 +237,25 @@ a em {
   background-color: transparent !important;
 }
 
-.srg .op-soft-title a:visited,
-.srg .op-soft-title a:visited em,
+#rso .op-soft-title a:visited,
+#rso .op-soft-title a:visited em,
 #rso .g div.r>a:visited,
 #rso .g div.r>a:visited em,
 #rso .g a:visited h3 {
   color: #609
 }
 
-.srg .op-soft-title a,
+#rso .op-soft-title a,
 #rso .g div.r>a {
   position: relative
 }
 
-.srg .op-soft-title a em,
+#rso .op-soft-title a em,
 #rso .g div.r>a em {
   text-decoration: none
 }
 
-.srg .op-soft-title a:hover:after,
+#rso .op-soft-title a:hover:after,
 #rso .g div.r>a:hover:after {
   left: 0;
   width: 100%;
@@ -262,7 +264,7 @@ a em {
   transition: width 350ms
 }
 
-.srg .op-soft-title a:after,
+#rso .op-soft-title a:after,
 #rso .g div.r>a:after {
   content: "";
   position: absolute;
@@ -275,11 +277,11 @@ a em {
   transition: width 350ms, left 350ms
 }
 
-.srg .op-soft-title a #rso .g div.r>a {
+#rso .op-soft-title a #rso .g div.r>a {
   position: relative
 }
 
-.srg .op-soft-title a:visited:hover:after,
+#rso .op-soft-title a:visited:hover:after,
 #rso .g div.r>a:visited:hover:after {
   left: 0;
   width: 100%;
@@ -288,7 +290,7 @@ a em {
   transition: width 350ms
 }
 
-.srg .op-soft-title a:visited:after,
+#rso .op-soft-title a:visited:after,
 #rso .g div.r>a:visited:after {
   content: "";
   position: absolute;
@@ -400,7 +402,7 @@ a em {
   }
 }
 
-.srg>div:not([class]) {
+#rso>div:not([class]) {
   margin-left: 18px;
   margin-right: 18px
 }
@@ -476,7 +478,7 @@ div .kno-ftr a {
   background: transparent !important;
 }
 
-.srg>.g .r>a>div {
+#rso>.g .r>a>div {
   width: 35rem
 }
 
