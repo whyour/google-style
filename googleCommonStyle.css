@@ -142,18 +142,18 @@ a em {
 }
 
 #rs,
-#rsa .g div.rc .s {
+#rso .g div.rc .s {
   max-width: unset
 }
 
-#rsa .g:hover, #rso .g:hover {
+#rso .g:hover, #rso .g:hover {
   box-shadow: 0 0 15px 3px rgba(0, 0, 0, .18);
   border: 1px solid rgba(0, 0, 0, .2);
   background: #fafafa !important
 }
 
-#rsa .g[tpl=soft] .op-soft-title,
-#rsa .g div.r {
+#rso .g[tpl=soft] .op-soft-title,
+#rso .g div.r {
   margin: 0 -20px 10px;
   padding: 8px 20px 5px;
   border-radius: 5px 5px 0 0
@@ -216,45 +216,45 @@ a em {
 
 .srg .se_com_irregular_gallery ul li,
 .srg .op_jingyan_list,
-#rsa .g .op-img-address-link-type {
+#rso .g .op-img-address-link-type {
   display: inline-block;
   margin-left: 10px
 }
 
-#rsa .g[tpl=soft] .op-soft-title a,
-#rsa .g[tpl=soft] .op-soft-title a em,
-#rsa .g div.r>a,
-#rsa .g a h3,
-#rsa .g div.r>a em {
+#rso .g[tpl=soft] .op-soft-title a,
+#rso .g[tpl=soft] .op-soft-title a em,
+#rso .g div.r>a,
+#rso .g a h3,
+#rso .g div.r>a em {
   color: #2866bd;
   font-weight: 700
 }
 
 .bkWMgd .g div.r, 
-#rsa .g h3 {
+#rso .g h3 {
   background-color: transparent !important;
 }
 
 .srg .op-soft-title a:visited,
 .srg .op-soft-title a:visited em,
-#rsa .g div.r>a:visited,
-#rsa .g div.r>a:visited em,
-#rsa .g a:visited h3 {
+#rso .g div.r>a:visited,
+#rso .g div.r>a:visited em,
+#rso .g a:visited h3 {
   color: #609
 }
 
 .srg .op-soft-title a,
-#rsa .g div.r>a {
+#rso .g div.r>a {
   position: relative
 }
 
 .srg .op-soft-title a em,
-#rsa .g div.r>a em {
+#rso .g div.r>a em {
   text-decoration: none
 }
 
 .srg .op-soft-title a:hover:after,
-#rsa .g div.r>a:hover:after {
+#rso .g div.r>a:hover:after {
   left: 0;
   width: 100%;
   -webkit-transition: width 350ms;
@@ -263,7 +263,7 @@ a em {
 }
 
 .srg .op-soft-title a:after,
-#rsa .g div.r>a:after {
+#rso .g div.r>a:after {
   content: "";
   position: absolute;
   border-bottom: 2px solid #2866bd;
@@ -275,12 +275,12 @@ a em {
   transition: width 350ms, left 350ms
 }
 
-.srg .op-soft-title a #rsa .g div.r>a {
+.srg .op-soft-title a #rso .g div.r>a {
   position: relative
 }
 
 .srg .op-soft-title a:visited:hover:after,
-#rsa .g div.r>a:visited:hover:after {
+#rso .g div.r>a:visited:hover:after {
   left: 0;
   width: 100%;
   -webkit-transition: width 350ms;
@@ -289,7 +289,7 @@ a em {
 }
 
 .srg .op-soft-title a:visited:after,
-#rsa .g div.r>a:visited:after {
+#rso .g div.r>a:visited:after {
   content: "";
   position: absolute;
   border-bottom: 2px solid #609;
@@ -405,7 +405,7 @@ a em {
   margin-right: 18px
 }
 
-#rsa .g .exp-outline {
+#rso .g .exp-outline {
   display: none
 }
 
@@ -437,12 +437,12 @@ div.res_top_banner #foot,
 }
 
 #rs,
-#rsa .g {
+#rso .g {
   margin-bottom: 20px;
   border-radius: 10px !important;
 }
 
-#rsa .g div.r {
+#rso .g div.r {
   border-radius: 10px 10px 0 0
 }
 
