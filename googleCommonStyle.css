@@ -146,7 +146,7 @@ a em {
   max-width: unset
 }
 
-.srg .g:hover {
+.srg .g:hover, #rso .g:hover {
   box-shadow: 0 0 15px 3px rgba(0, 0, 0, .18);
   border: 1px solid rgba(0, 0, 0, .2);
   background: #fafafa !important
