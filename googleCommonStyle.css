@@ -128,7 +128,7 @@ a em {
   transition: all .25s cubic-bezier(.23, 1, .32, 1) 0s
 }
 
-#rso>.g, #extrares {
+#extrares {
   display: none !important;
 }
 
