@@ -90,5 +90,21 @@
 }
 
 g-section-with-header {
-  text-align: center
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#rso .g,
+.bkWMgd>.g,
+.bkWMgd g-inner-card,
+#rhscol #rhs,
+#rhscol #rhs .g>div,
+.c2xzTb .g,
+.ruTcId .g,
+.fm06If .g,
+.cUnQKe .g,
+.HanQmf .g,
+#rso .g,
+#rso>div:not(.g)>* {
+  border: none;
 }

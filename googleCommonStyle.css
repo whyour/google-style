@@ -133,7 +133,7 @@ a em {
 }
 
 .COEoid, .mJVYJe {
-  margin: -4px -160px -4px -5px !important;
+  margin: -4px -125px -4px -5px !important;
 }
 
 .vk_c, .vk_cxp {
@@ -401,8 +401,7 @@ a em {
 }
 
 #rso>div:not([class]) {
-  margin-left: 18px;
-  margin-right: 18px
+  margin-right: 36px
 }
 
 #rso .g .exp-outline {
