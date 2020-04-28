@@ -110,5 +110,6 @@ g-section-with-header {
 }
 
 #sej-container {
+  text-align: left !important;
   margin-left: 169px !important;
 }

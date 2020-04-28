@@ -498,3 +498,8 @@ body[google] .baidu {
   border: none !important;
   margin-right: 0 !important;
 }
+
+#sej-container {
+  margin-left: 169px !important;
+  text-align: left !important;
+}
