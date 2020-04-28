@@ -503,3 +503,8 @@ body[google] .baidu {
   margin-left: 169px !important;
   text-align: left !important;
 }
+
+.sp-separator {
+  width: 760px !important;
+  margin: 0 !important;
+}
