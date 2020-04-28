@@ -108,3 +108,7 @@ g-section-with-header {
 #rso>div:not(.g)>* {
   border: none;
 }
+
+#sej-container {
+  margin-left: 169px !important;
+}
