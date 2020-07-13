@@ -479,6 +479,10 @@ div .kno-ftr a {
   width: 35rem
 }
 
+#rso>.g .r>a + div {
+  display: none !important;
+}
+
 .logo {
   top: unset
 }
