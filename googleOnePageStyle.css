@@ -9,7 +9,7 @@
 }
 
 .srg>.g,
-#rso>.g {
+.hlcw0c>.g {
   width: unset;
   margin-left: 20px;
   overflow: hidden;
@@ -48,7 +48,7 @@
   grid-column-end: 6
 }
 
-#rso g-scrolling-carousel {
+.hlcw0c g-scrolling-carousel {
   margin: unset;
   margin-left: 20px
 }
@@ -94,7 +94,7 @@ g-section-with-header {
   margin-bottom: 20px;
 }
 
-#rso .g,
+.hlcw0c .g,
 .bkWMgd>.g,
 .bkWMgd g-inner-card,
 #rhscol #rhs,
@@ -104,8 +104,8 @@ g-section-with-header {
 .fm06If .g,
 .cUnQKe .g,
 .HanQmf .g,
-#rso .g,
-#rso>div:not(.g)>* {
+.hlcw0c .g,
+.hlcw0c>div:not(.g)>* {
   border: none;
 }
 
