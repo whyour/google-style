@@ -112,8 +112,8 @@ a em {
 }
 
 #rs,
-.hlcw0c>.g,
-.hlcw0c>.g {
+#rsa>.g,
+#rsa>.g {
   width: 760px;
   padding: 10px 20px 15px;
   margin-top: 0;
@@ -477,11 +477,11 @@ div .kno-ftr a {
   background: transparent !important;
 }
 
-.hlcw0c>.g .r>a>div {
+#rsa>.g .r>a>div {
   width: 35rem
 }
 
-.hlcw0c>.g .r>a + div {
+#rsa>.g .r>a + div {
   display: none !important;
 }
 
