@@ -9,7 +9,7 @@
 }
 
 .srg>.g,
-#rsa>.g {
+#rso>.g {
   width: unset;
   margin-left: 20px;
   overflow: hidden;
@@ -94,7 +94,7 @@ g-section-with-header {
   margin-bottom: 20px;
 }
 
-#rsa .g,
+#rso .g,
 .bkWMgd>.g,
 .bkWMgd g-inner-card,
 #rhscol #rhs,
@@ -104,7 +104,7 @@ g-section-with-header {
 .fm06If .g,
 .cUnQKe .g,
 .HanQmf .g,
-#rsa .g,
+#rso .g,
 .hlcw0c>div:not(.g)>* {
   border: none;
 }
