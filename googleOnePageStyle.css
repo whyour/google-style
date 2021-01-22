@@ -94,7 +94,7 @@ g-section-with-header {
   margin-bottom: 20px;
 }
 
-.hlcw0c .g,
+#rsa .g,
 .bkWMgd>.g,
 .bkWMgd g-inner-card,
 #rhscol #rhs,
@@ -104,7 +104,7 @@ g-section-with-header {
 .fm06If .g,
 .cUnQKe .g,
 .HanQmf .g,
-.hlcw0c .g,
+#rsa .g,
 .hlcw0c>div:not(.g)>* {
   border: none;
 }
