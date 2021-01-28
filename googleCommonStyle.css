@@ -510,6 +510,5 @@ body[google] .baidu {
 }
 
 .sp-separator {
-  width: 760px !important;
-  margin: 0 !important;
+  margin: 10px !important;
 }
