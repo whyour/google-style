@@ -112,9 +112,8 @@ a em {
 }
 
 #rs,
-.g,
 .g {
-  width: 760px;
+  width: 100% !important;
   padding: 10px 20px 15px;
   margin-top: 0;
   margin-bottom: 40px;
